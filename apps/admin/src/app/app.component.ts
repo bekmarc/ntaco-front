@@ -2,7 +2,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'admin-root',
+  selector: 'admin',
   templateUrl: './app.component.html',
 })
 export class AppComponent {
