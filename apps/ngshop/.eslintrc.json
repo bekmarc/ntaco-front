@@ -9,7 +9,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "ntacoFront",
+            "prefix": "ngshop",
             "style": "camelCase"
           }
         ],
@@ -17,7 +17,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "ntaco-front",
+            "prefix": "ngshop",
             "style": "kebab-case"
           }
         ]

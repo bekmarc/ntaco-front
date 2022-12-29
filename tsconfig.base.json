@@ -14,7 +14,12 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@ntaco-front/orders": ["libs/orders/src/index.ts"],
+      "@ntaco-front/products": ["libs/products/src/index.ts"],
+      "@ntaco-front/ui": ["libs/ui/src/index.ts"],
+      "@ntaco-front/user": ["libs/user/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
