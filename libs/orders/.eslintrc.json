@@ -10,7 +10,7 @@
           {
             "type": "attribute",
             "prefix": "orders",
-            "style": "camelCase"
+            "style": "camelCase"  
           }
         ],
         "@angular-eslint/component-selector": [
